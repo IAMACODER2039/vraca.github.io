@@ -1,0 +1,133 @@
+body
+ {
+ 	  background-color: white ; margin: 0 ;  
+ }
+
+#hello
+ {
+ 	text-align: center ; font-family: sans-serif ; color: darkblue ;  
+
+ }
+
+#crow {
+
+ 	 background-color : blue ; background-color: #5cb6f9 ; padding: 25px ;
+ }
+
+ #Vracalogo {
+
+ 	position: absolute; top: 10px ; left: 50px
+ }
+
+ #explore{
+
+ 	font-size: 18px ;  font-weight: normal; font-family: sans-serif ; color: black ; position: absolute; right: 200px ; text-decoration: none; 
+ }
+
+ #about {
+
+ 	font-size: 18px ;  font-weight: normal; color :darkblue; font-family: sans-serif; position: absolute; right: 100px ; text-decoration: none;
+
+ }
+
+#bird 
+{
+
+   background-color: #5cb6f9; 
+}
+
+#aboutustext
+{
+
+	text-align: center; font-family: sans-serif ; color : darkblue ; padding: 45px ;
+
+}
+
+#Homepage1{
+
+	font-family: sans-serif; color: darkblue ; text-decoration : none; position: absolute; right: 150px ; font-size: 18px ; font-weight: normal ; 
+}
+
+#introh{
+
+	font-family: sans-serif;color: black ; text-align: center;
+}
+
+#introp {
+
+	font-family: sans-serif ; color: black ; font-size : 22.5px ;position: absolute; 
+
+
+right: 200px ;left: 400px
+}
+
+#letsvraca{
+
+	font-family: sans-serif;color: black ; background-color: #5cb6f9 ; position: absolute; right: 650px ; bottom: 250px  ; color: darkblue ;     
+
+}
+
+#h {
+
+    position:absolute; right : 200px ; left: 500px ;  bottom : 50px; font-family: sans-serif; font-size: 18px ;
+}
+
+#v {
+
+	font-family: sans-serif; position: absolute; right: 200px ; left: 500px ;bottom: 135px ;   
+}
+
+
+
+#endofp1 {
+	background-color: #5cb6f9 ; padding: 20px ;   
+
+	
+}
+
+#share {
+
+	font-family: sans-serif; color: darkblue ; font-size: 18px ; 
+}
+
+#bottom {
+
+	position: absolute; right : 200px; font-family: sans-serif; font-size: 18px ; 
+}
+
+#Privacy {
+
+	position: absolute; right : 100px; font-family: sans-serif; font-size: 18px ; 
+}
+
+#about {
+
+	text-align: center; font-family: sans-serif; color: black ; 
+}
+
+.Titleaboutus {
+
+	font-size: 18px ; font-weight: bold ; 
+}
+
+#Homepage2 {
+
+   font-family: sans-serif; color: darkblue ; text-decoration : none ; font-size: 18px ; font-weight: normal ; position: absolute; right: 250px 
+
+}
+
+#piegon {
+
+	background-color: #5cb6f9 ; padding: 25px ;   
+}
+
+#dubaitext {
+
+	font-family: sans-serif; text-align: center; color: darkblue ; 
+
+}
+
+#dubhe {
+
+	text-align: center; font-family: sans-serif;
+}
